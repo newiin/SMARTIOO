@@ -1,0 +1,8 @@
+{
+  "name": "SMARTIOO",
+  "version": "1.0.0",
+  "description": "MarketPlace for Smart Devices",
+  "main": "app.js",
+  "author": "newiin <carlos.barbier@newiin.com>",
+  "license": "MIT"
+}
