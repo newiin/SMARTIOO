@@ -1,3 +1,6 @@
 exports.about = (req, res) => {
-	res.render('about', { title: 'About page' });
+	console.log('====================================');
+	console.log(process.env.NODE_ENV);
+	console.log('====================================');
+	res.send(process.env.NAME);
 };
